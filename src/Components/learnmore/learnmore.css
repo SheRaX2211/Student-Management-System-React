@@ -1,0 +1,115 @@
+/* src/components/LearnMorePage.css */
+.learn-more-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .header h1 {
+    font-size: 2.5em;
+    color: #333;
+  }
+  
+  .header p {
+    font-size: 1.2em;
+    color: #777;
+  }
+  
+  .features {
+    margin-bottom: 40px;
+  }
+  
+  .features h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #444;
+  }
+  
+  .feature-item {
+    margin-bottom: 20px;
+  }
+  
+  .feature-item h3 {
+    font-size: 1.5em;
+    color: #222;
+  }
+  
+  .feature-item p {
+    color: #555;
+  }
+  
+  .benefits ul {
+    list-style-type: square;
+    margin-left: 20px;
+  }
+  
+  .benefits li {
+    font-size: 1.1em;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .faq {
+    margin-bottom: 40px;
+  }
+  
+  .faq-item {
+    margin-bottom: 20px;
+  }
+  
+  .faq-item h3 {
+    font-size: 1.3em;
+    color: #333;
+  }
+  
+  .faq-item p {
+    color: #555;
+  }
+  
+  .call-to-action {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .call-to-action h2 {
+    font-size: 2em;
+    color: #333;
+  }
+  
+  .call-to-action p {
+    font-size: 1.2em;
+    color: #555;
+  }
+  
+  .demo-button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-size: 1.1em;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #f8f8f8;
+  }
+  
+  .footer h2 {
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+  .footer p {
+    font-size: 1.1em;
+    color: #777;
+  }
+  
